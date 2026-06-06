@@ -21,7 +21,7 @@ The project is split into two parts:
 ---
 
 ## Go live 
-# 🚀 https://popxtask1.netlify.app/
+# 🚀 https://educaseIndia.netlify.app/
 
 ## ✨ Features
 
@@ -54,7 +54,7 @@ The project is split into two parts:
 
 ## 📂 Folder Structure
 
-📦 popx-assignment
+📦educaseIndia-assignment
 ```bash
 ┣ 📂 backend
 ┃ ┣ 📂 node_modules
@@ -116,7 +116,7 @@ Follow these steps to set up the project on your local machine:
     - Frontend → [Netlify](https://www.netlify.com)  
 
 **Live API URL:**  
-https://popxtask1.netlify.app/
+https://educaseIndia.netlify.app/
 
 ---
 
