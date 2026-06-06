@@ -1,4 +1,4 @@
-# 🌐 PopX Assignment – Fullstack Authentication App
+# 🌐 educaseIndia Assignment – Fullstack Authentication App
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react) 
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js) 
@@ -87,7 +87,7 @@ Follow these steps to set up the project on your local machine:
           
 2️⃣ Clone the Repository
 ```
-      git clone https://github.com/jatinsaxena02/popx-assignment.git
+      git clone https://github.com/JatinSaxena02/educaseIndia_assignment.git
       cd popx-assignment
 ```
 3️⃣ Install Dependencies
